@@ -1,0 +1,4 @@
+baseURL = "https://musica-muziek.vercel.app"
+languageCode = "en-us"
+title = "Free Sheet Music Maker"
+theme = "hugo-theme-minos"
